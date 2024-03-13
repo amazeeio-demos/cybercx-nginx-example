@@ -1,1 +1,6 @@
 docker-compose-yaml: docker-compose.yml
+
+project: cybercx-nginx-example
+
+ssh: token.main.lagoon-core.test6.amazee.io:22
+api: https://api.main.lagoon-core.test6.amazee.io/graphql
